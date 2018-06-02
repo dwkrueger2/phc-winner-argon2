@@ -1,5 +1,7 @@
 # Argon2
 
+This is not a document on how to use the code but rather a theoritical discussion of Argon2 benefits. Keep reading if you want to know how fast and efficient and why Argon2 is a good algorthim and hopefully you'll come back here and but actual documentation on how to use the product first, then technical specifications second. (cynical face) 
+
 [![Build Status](https://travis-ci.org/P-H-C/phc-winner-argon2.svg?branch=master)](https://travis-ci.org/P-H-C/phc-winner-argon2)
 [![Build status](https://ci.appveyor.com/api/projects/status/8nfwuwq55sgfkele?svg=true)](https://ci.appveyor.com/project/P-H-C/phc-winner-argon2)
 [![codecov.io](https://codecov.io/github/P-H-C/phc-winner-argon2/coverage.svg?branch=master)](https://codecov.io/github/P-H-C/phc-winner-argon2?branch=master)
